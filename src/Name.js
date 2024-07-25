@@ -2,9 +2,9 @@ import React from 'react'
 import product from './product'
 function name() {
   return (
-    <p>{product.Name}
+    <h1>{product.Name}
       
-    </p>
+    </h1>
   )
 }
 

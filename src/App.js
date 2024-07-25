@@ -11,13 +11,9 @@ function App() {
   return (
     <div className="App">
 
-      {/*<h1>hello</h1>//
-      <Image/>
-      <Description/>
-      <Price/>
-      <Name/> */ }
+    
 
-      <Card style={{ width: '100%'}}>
+      <Card >
       <Image />
       <Card.Body>
       <Card.Title><Name/></Card.Title>

@@ -1,3 +1,33 @@
 
+div { background-color: rgba(202, 206, 149, 0.918);}
 
-
+       .App img{
+    display: block; 
+    border-radius: 10px; 
+    width: 20%; 
+    height: auto; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(200%, 0%); 
+  }
+  .App p {
+    font-size: 24px;
+    margin-bottom: 80px;
+    margin-top: 80px;
+    margin-left: 120px;
+    margin-right: 120px;
+    color: #0c0b0b;
+    text-align: center;
+    
+  }
+  .App h2{
+    color: #f70b0b;
+    text-align: center;
+    transform: translate(2%, 0%);
+    
+  }
+  
+  .App h1{
+    color: #0892ee;
+    text-align: center;
+  }
